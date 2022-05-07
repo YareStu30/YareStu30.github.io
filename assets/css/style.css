@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#navbarNav {
+  justify-content: right;
+}
+.button {
+  font-weight: lighter;
+  font-size: 20px;
+}
+body {
+  background: url("../img/wallpaper.jpg");
+}
+.img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+.subtitulo {
+  font-size: 40px;
+  margin-bottom: 40px;
+  background-color: black;
+}
+
+.carousel-item {
+  border: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 10em;
+}
