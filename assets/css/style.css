@@ -26,13 +26,12 @@ body {
   border: 40px;
 }
 
-.carr {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 .carousel-item img {
   border: 40px;
   width: 15em;
+}
+.contain_carousel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
