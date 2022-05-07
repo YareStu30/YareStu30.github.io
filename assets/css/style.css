@@ -10,7 +10,7 @@
   font-size: 20px;
 }
 body {
-  background: url('../img/wallpaper.jpg');
+  background: url("../img/wallpaper.jpg");
 }
 .img {
   display: block;
@@ -22,6 +22,7 @@ body {
   margin-bottom: 40px;
   background-color: black;
 }
+
 .carousel-item {
   border: 40px;
 }
